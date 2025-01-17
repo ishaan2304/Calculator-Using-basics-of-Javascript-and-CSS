@@ -1,1 +1,72 @@
+button{
+    width:100px;
+    height:100px;
+    border-radius: 50px;
+    border:none;
+    background: hsla(123, 11%, 62%, 0.925);
+    color: aliceblue;
+    font-size: 3rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+button:hover {
+    background: #45a049;
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+button:active {
+    transform: scale(0.95);
+    background: #388e3c;
+}
+#keys{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    padding:25px;
+}
+#calc{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   background-color: hsl(0, 0%, 15%);
+   border-radius: 15px;
+   max-width: 550px;
+   overflow: hidden;
+   backdrop-filter: blur(10px);
+}
+#display{
+    width: 100%;
+    color: white;
+    padding: 20px;
+    font-size: 5rem;
+    border-radius: 8px;
+    text-align: right;
+    margin-bottom: 20px;
+    background-color:rgba(255, 255, 255, 0.8);
+    box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+body {
+    background: linear-gradient(120deg, hsl(46, 58%, 52%), #671c07);
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.operator-btn {
+    background: #105f93;
+    color: white;
+}
+
+.operator-btn:hover {
+    background: hsl(14, 80%, 65%);
+    transform: scale(1.1);
+}
+.operator-btn:active{
+    background: hsl(14, 80%, 75%);
+    transform: scale(1.1);
+}
 
