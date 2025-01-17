@@ -1,2 +1,2 @@
-# Calculator using JS and CSS
-Building a Web based calculator for performing various operations 
+# Calculator using JS,HTML5 and CSS
+Building a attractive Web based calculator for performing basic calculations
