@@ -20,3 +20,5 @@ User-friendly interface for seamless interaction.
 🔸 HTML: For structure.  
 🔸 CSS: For styling.  
 🔸 JavaScript: For functionality
+# Screenshot
+![Frontend!](calc.png)
