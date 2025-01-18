@@ -19,6 +19,6 @@ User-friendly interface for seamless interaction.
 # 🛠️ Technologies Used
 🔸 HTML: For structure.  
 🔸 CSS: For styling.  
-🔸 JavaScript: For functionality
-# Screenshot
-![Frontend!](calc.png)
+🔸 JavaScript: For functionality  
+## Screenshots
+![Image](https://github.com/user-attachments/assets/581ce624-fca9-4f67-b5d2-dabba9c63b46)
