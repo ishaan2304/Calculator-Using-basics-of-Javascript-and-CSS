@@ -22,3 +22,5 @@ User-friendly interface for seamless interaction.
 🔸 JavaScript: For functionality  
 ## Screenshots
 ![Image](https://github.com/user-attachments/assets/581ce624-fca9-4f67-b5d2-dabba9c63b46)
+
+FEEL FREE TO GIVE FEEDBACK OR SUGGESTIONS
