@@ -17,9 +17,9 @@ User-friendly interface for seamless interaction.
 🔸 Use the calculator for basic operations.
 
 # 🛠️ Technologies Used
-🔸 HTML: For structure.  
-🔸 CSS: For styling.  
-🔸 JavaScript: For functionality  
+🔸 HTML
+🔸 CSS
+🔸 JavaScript
 ## Screenshots
 ![Image](https://github.com/user-attachments/assets/581ce624-fca9-4f67-b5d2-dabba9c63b46)
 
