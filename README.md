@@ -16,7 +16,7 @@ User-friendly interface for seamless interaction.
 ```bash 
 https://github.com/ishaan2304/Calculator-Using-basics-of-Javascript-and-CSS.git
 ```
-🔸 Open index.html in a web browser.  
+🔸 Open ```index.html``` in a web browser.  
 🔸 Use the calculator for basic operations.
 
 # 🛠️ Technologies Used
