@@ -34,4 +34,6 @@ https://github.com/ishaan2304/Calculator-Using-basics-of-Javascript-and-CSS.git
 ## Screenshots
 ![Image](https://github.com/user-attachments/assets/581ce624-fca9-4f67-b5d2-dabba9c63b46)
 
+Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
 FEEL FREE TO GIVE FEEDBACK OR SUGGESTIONS
