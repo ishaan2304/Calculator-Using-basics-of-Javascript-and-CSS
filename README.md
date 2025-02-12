@@ -9,7 +9,7 @@ User-friendly interface for seamless interaction.
 • Subtraction (➖)  
 • Multiplication (✖️)  
 • Division (➗).    
-📱 Responsive design for better usability across devices.
+📱 Responsive design for better usability across devices can do many calculations .
 
 # 🚀 How to Use  
 🔸 Clone or download the repository.  
