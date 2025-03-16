@@ -10,7 +10,6 @@ button{
     cursor: pointer;
     transition: all 0.2s ease;
 }
-
 button:hover {
     background: #45a049;
     transform: scale(1.05);
