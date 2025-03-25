@@ -1,5 +1,5 @@
 
-# 🧮 Basic Calculator
+#  Basic Calculator
 A simple web-based calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division. This project was built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
@@ -10,7 +10,7 @@ A simple web-based calculator that performs basic arithmetic operations like add
 - [Contributing](#contributing)
 - [Feedback](#feedback)
 
-# ✨ Features
+#  Features
 User-friendly interface for seamless interaction.  
  Supports basic operations:  
 • Addition (➕)  
@@ -19,7 +19,7 @@ User-friendly interface for seamless interaction.
 • Division (➗).    
 📱 Responsive design for better usability across devices can do many calculations .
 
-# 🚀 How to Use  
+#  How to Use  
 🔸 Clone or download the repository.  
 ```bash 
 https://github.com/ishaan2304/Calculator-Using-basics-of-Javascript-and-CSS.git
