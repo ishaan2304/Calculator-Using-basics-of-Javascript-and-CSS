@@ -1,6 +1,6 @@
 
 #  Basic Calculator
-A simple web-based calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division. This project was built using HTML, CSS, and JavaScript/
+A simple web-based calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division. This project was built using HTML, CSS, and JavaScript
 
 
 ## Table of Contents
